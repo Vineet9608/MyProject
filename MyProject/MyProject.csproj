@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+<StartupObject>MyProject.array.DARRAY</StartupObject>
+	  
+	  
+  
+ 
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="switchDemo\" />
+  </ItemGroup>
+
+</Project>
